@@ -1,7 +1,7 @@
 # LoadingBar
  
 ## Live Demo Link
-<a href="https://melihkocc.github.io/TimeCalculatingApp/">Demo Link</a>
+<a href="https://melihkocc.github.io/LoadingBar/">Demo Link</a>
 
 ## Technologies
 · HTML<br>
